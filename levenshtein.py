@@ -1,6 +1,6 @@
 import numpy as np
 
-def pylevenshtein(word1, word2):
+def distc(word1, word2):
     xlength = len(word1)+1
     ylength = len(word2)+1
     grid = np.zeros((xlength, ylength))

@@ -2,9 +2,21 @@
 
 Python levenshtein project used to calculate the difference between two strings
 
-download from command prompt using:
+Download from command prompt using:
 pip install git+git://github.com/Redstomite/py-levenshtein#egg=py-levenshtein
 (pip needs to be installed first)
+or
+pip install py-levenshtein
+
+How to use it:
+import py-levenschtein as pylev
+
+word1 = ""
+word2 = ""
+
+distance = pylev.distc(word1, word2)
+
+print(distance)
 
 Algorithm:
 https://en.wikipedia.org/wiki/Levenshtein_distance
