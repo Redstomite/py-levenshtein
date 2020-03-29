@@ -1,5 +1,6 @@
 from setuptools import setup, find_packages
 import os
+from distutils.core import Extension
 
 setup(
     name='py-levenshtein',
@@ -13,4 +14,8 @@ setup(
         "Source": "https://github.com/Redstomite/py-levenshtein",
         "Say Thanks!": "https://saythanks.io/to/grokwithrahul%40gmail.com",
     },
+    install_requires=[
+        'setuptools',
+        # Extra requirements
+    ],
 )
