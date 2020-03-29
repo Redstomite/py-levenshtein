@@ -14,5 +14,4 @@ setup(
         "Say Thanks!": "https://saythanks.io/to/grokwithrahul%40gmail.com",
         "zip_safe": "True",
     },
-    packages=find_packages(exclude=['ez_setup'])
 )
