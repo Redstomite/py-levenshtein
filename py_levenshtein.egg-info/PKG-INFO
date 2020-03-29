@@ -1,0 +1,10 @@
+Metadata-Version: 1.1
+Name: py-levenshtein
+Version: 1.0
+Summary: Levenshtein project for python
+Home-page: UNKNOWN
+Author: Rahul Prabhu
+Author-email: grokwithahul@gmail.com
+License: GPL
+Project-URL: Source, https://github.com/Redstomite/py-levenshtein
+Project-URL: Say Thanks!, https://saythanks.io/to/grokwithrahul%40gmail.com
