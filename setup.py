@@ -2,6 +2,9 @@ from setuptools import setup, find_packages
 import os
 from distutils.core import Extension
 
+with open("README.md", "r") as readme_file:
+    readme = readme_file.read()
+
 setup(
     name='py-levenshtein',
     version='1.0',
@@ -14,8 +17,9 @@ setup(
         "Source": "https://github.com/Redstomite/py-levenshtein",
         "Say Thanks!": "https://saythanks.io/to/grokwithrahul%40gmail.com",
     },
-    install_requires=[
-        'setuptools',
-        # Extra requirements
+    packages=find_packages(),
+    classifiers=[
+        "Programming Language :: Python :: 3.7",
+        "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
     ],
 )
