@@ -1,4 +1,4 @@
-# NYAS-COVID19-Challenge
+#Py-Levenshtien
 
 Python levenshtein project used to calculate the difference between two strings
 
