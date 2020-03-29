@@ -1,1 +1,8 @@
+Initial commit (1.0)
 
+Date: March 29 2020
+
+Changes:
+*Added py-levenshtein library to github
+
+*Added Readme, license, and history
