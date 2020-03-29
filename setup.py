@@ -12,6 +12,5 @@ setup(
     project_urls={
         "Source": "https://github.com/Redstomite/py-levenshtein",
         "Say Thanks!": "https://saythanks.io/to/grokwithrahul%40gmail.com",
-        "zip_safe": "True",
     },
 )
