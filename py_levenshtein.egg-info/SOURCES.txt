@@ -1,0 +1,6 @@
+README.md
+setup.py
+py_levenshtein.egg-info/PKG-INFO
+py_levenshtein.egg-info/SOURCES.txt
+py_levenshtein.egg-info/dependency_links.txt
+py_levenshtein.egg-info/top_level.txt
