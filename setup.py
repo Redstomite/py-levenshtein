@@ -6,7 +6,7 @@ with open("README.md", "r") as readme_file:
     readme = readme_file.read()
 
 setup(
-    name='py-levenshtein',
+    name='pylevenshtein',
     version='1.0',
     license='GPL',
     author='Rahul Prabhu',
