@@ -1,1 +1,1 @@
-from pylevenshtein.levenshtein import distc 
+from pylevenshtein.levenshtein import distc
